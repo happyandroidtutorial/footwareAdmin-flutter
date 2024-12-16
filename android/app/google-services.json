@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573020368419",
+    "project_id": "footware-f41be",
+    "storage_bucket": "footware-f41be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573020368419:android:2e2fbd5766caa9224d4b96",
+        "android_client_info": {
+          "package_name": "com.example.fw_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ70a0Le75uajuGm9Lo5SsNvzZu5gSwM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
